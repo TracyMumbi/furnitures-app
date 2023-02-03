@@ -1,0 +1,94 @@
+{
+    "furniture": [
+    {
+      "id": 1,
+      "url": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?cs=srgb&dl=pexels-martin-p%C3%A9chy-1866149.jpg&fm=jpg",
+      "color": "brown",
+      "price": "$250"
+    },
+    {
+      "id": 2,
+      "url": "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?cs=srgb&dl=pexels-rachel-claire-4846097.jpg&fm=jpg",
+      "color": "green",
+      "price": "$350"
+    },
+    {
+      "id": 3,
+      "url": "https://micheleomega.typepad.com/.a/6a00d8341d1db453ef014e86e498f8970d-450wi",
+      "color": "white",
+      "price": "$420"
+    },
+    {
+      "id": 4,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvb80-ckPZvIorLOgllZFJPFKLl9vfkYttJw&usqp=CAU",
+      "color": "grey",
+      "price": "$300"
+    },
+    {
+      "id": 5,
+      "url": "https://images.pexels.com/photos/6969835/pexels-photo-6969835.jpeg?cs=srgb&dl=pexels-max-vakhtbovych-6969835.jpg&fm=jpg",
+      "color": "dark-brown",
+      "price": "$450"
+    },
+    {
+      "id": 6,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GgIjgCqWyy5bFv3lF3bsTTi66ceObBRJmyC0VfviK2zdomZ38avzjKEy4ymaxbfVoPk&usqp=CAU",
+      "color": "light-green",
+      "price": "$420"
+    },
+    {
+      "id": 7,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXuRsSdm8nQkPGUy6PsTFMWa-_hDIl0oRBaO-e2xYlX99C02A_d_dPKsGXaVriktPRq8&usqp=CAU",
+      "color": "black",
+      "price": "$380"
+    },
+    {
+      "id": 8,
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1q3CQ7dL35zL8hig7yboOA5X6y5S3kUEcoBiKXK4EZ_PDNQ6i2dd98mt9zQiopETxUo&usqp=CAU",
+      "color": "beige",
+      "price": "$280"
+    },
+    {
+      "id": 9,
+      "url": "https://images.unsplash.com/photo-1551298370-9d3d53740c72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "color": "black",
+      "price": "$580"
+    },
+    {
+      "id": 10,
+      "url": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZ1cm5pdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "color": "red",
+      "price": "$450"
+    },
+    {
+      "id": 11,
+      "url": "https://images.unsplash.com/photo-1550226891-ef816aed4a98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGZ1cm5pdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "color": "pink",
+      "price": "$120"
+    },
+    {
+      "id": 12,
+      "url": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZ1cm5pdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "color": "orange",
+      "price": "$340"
+    },
+    {
+      "id": 13,
+      "url": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "color": "purple",
+      "price": "$670"
+    },
+    {
+      "id": 14,
+      "url": "https://plus.unsplash.com/premium_photo-1673548917092-7f7a92d7f0dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "color": "brown",
+      "price": "$230"
+    },
+    {
+      "id": 15,
+      "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "color": "blue",
+      "price": "$980"
+    }
+  ]
+}
